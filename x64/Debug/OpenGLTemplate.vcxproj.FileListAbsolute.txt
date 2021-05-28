@@ -1,0 +1,2 @@
+C:\Users\amirr\OneDrive\Desktop\Course Docs\GAM533\final-project\x64\Debug\OpenGLTemplate.exe
+C:\Users\amirr\OneDrive\Desktop\Course Docs\GAM533\final-project\x64\Debug\OpenGLTemplate.pdb
